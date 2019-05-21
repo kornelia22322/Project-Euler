@@ -1,4 +1,4 @@
-Distinct primes factors
+<b>Distinct primes factors</b>
 
 Problem 47
 The first two consecutive numbers to have two distinct prime factors are:
